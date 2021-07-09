@@ -20,9 +20,9 @@ div{background-color: #d6d6d60f; padding: 5px 40px;
 
 p{ font-size: 22px;}
  
-  h3{margin: auto; 
-    display: block; 
-  width: 620px; align-text: center}
+  h3{display: block;
+    margin-left: auto;
+    margin-right: auto}
 
   iframe{border-radius: 12px; margin: auto }
 
