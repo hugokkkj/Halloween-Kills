@@ -20,9 +20,10 @@ div{background-color: #d6d6d60f; padding: 5px 40px;
 
 p{ font-size: 22px;}
  
-  <style> .logo{margin-left: auto;
-    margin-right: auto;
-    width: 6em}
+  <style> .logo{display: block;
+    margin-left: auto;
+    margin-right: auto} 
+  </style>
 
   iframe{border-radius: 12px; margin: auto }
 
